@@ -1,0 +1,3 @@
+[submodule "foobar"]
+	path = foobar
+	url = git@github.com:iyanke/foobar
